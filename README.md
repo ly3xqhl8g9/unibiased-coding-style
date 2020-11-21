@@ -12,7 +12,7 @@ The `Unibiased Coding Style` (`UCS`) acknowledges the diversity and difference b
 
 Nothing wrong in a language being written in a certain style, separating itself from the rest of the flock, however the `UCS` will imply certain assumptions even there.
 
-As a general rule, the `UCS` ground:
+As a general rule, the `UCS` grounds:
 
 ```
 if a change is meant in a single place
